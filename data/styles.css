@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -18,36 +18,36 @@
 .button {
 }
 .heading_1 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-size:24px;
   text-align:left;
 }
 .heading_3 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-size:18px;
   text-align:left;
 }
 .heading_4 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-size:14px;
   text-align:left;
 }
 .heading_5 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   text-align:left;
 }
 .heading_6 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-size:10px;
   text-align:left;
@@ -77,7 +77,7 @@
 .flow_shape {
 }
 .connector {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -100,4 +100,9 @@
 }
 .html_button {
   text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
 }

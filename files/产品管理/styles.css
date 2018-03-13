@@ -3145,3 +3145,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u1704 {
+  position:absolute;
+  left:1061px;
+  top:177px;
+  width:51px;
+  height:90px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
